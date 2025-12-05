@@ -1,3 +1,0 @@
-generate a big file (100 mb) as requirement for this excercise using:
-
-> dd if=/dev/urandom of=archivo_grande.bin bs=1M count=100  
